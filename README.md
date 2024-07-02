@@ -1,2 +1,2 @@
-# jobify
+# trackrr
 mern job tracking application 
