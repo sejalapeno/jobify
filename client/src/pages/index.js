@@ -1,5 +1,4 @@
 export { default as DashboardLayout } from "./DashboardLayout";
-export { default as DeleteJob } from "./DeleteJob";
 export { default as EditJob } from "./EditJob";
 export { default as Error } from "./Error";
 export { default as HomeLayout } from "./HomeLayout";

@@ -1,6 +1,15 @@
 export { default as Logo } from "./Logo";
 export { default as FormRow } from "./FormRow";
+export { default as FormRowSSelect } from "./FormRowSelect";
 export { default as Navbar } from "./Navbar";
 export { default as SmallSideBar } from "./SmallSideBar";
 export { default as BigSideBar } from "./BigSideBar";
 export { default as NavLinks } from "./NavLinks";
+export { default as StatItem } from "./StatItem";
+export { default as ChartsContainer } from "./ChartsContainer";
+export { default as StatsContainer } from "./StatsContainer";
+export { default as BarChartComponent } from "./BarChart";
+export { default as AreaChartComponent } from "./AreaChart";
+export { default as SearchContainer } from "./SearchContainer";
+export { default as JobsContainer } from "./JobsContainer";
+export { default as PageBtnContainer } from "./PageBtnContainer";
