@@ -12,13 +12,19 @@ const Landing = () => {
       <div className="container page">
         <div className="info">
           <h1>
-            Job <span> Tracking </span>App
+            Job
+            <span>
+              {" "}
+              <i>Tracking</i>{" "}
+            </span>
+            App
           </h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore
-            vitae ratione error quod, sit nostrum assumenda beatae, possimus
-            quae quo eius earum quibusdam porro ipsam et, necessitatibus autem
-            explicabo voluptate.
+            Welcome to Trackrr, your essential MERN stack job tracking app.
+            Trackrr simplifies your job search with features like adding and
+            updating job applications, personalized user profiles for efficient
+            management, and insightful statistics to track your progress. Stay
+            organized and focused on landing your next opportunity with Trackrr.
           </p>
           <Link to="/register" className="btn register-link">
             Register

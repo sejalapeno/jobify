@@ -29,7 +29,7 @@ const Wrapper = styled.section`
     line-height: 2;
     color: var(--text-secondary-color);
     margin-bottom: 1.5rem;
-    max-width: 35em;
+    max-width: 42em;
   }
   .register-link {
     margin-right: 1rem;
